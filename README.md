@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![GitHub Views](https://gitviews.com/user/tema141505.svg?style=modern-outline&label=Viewers+%F0%9F%97%A3%EF%B8%8F&label-color=dark&color=RED)
 <!--
 **tema141505/tema141505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
