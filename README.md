@@ -1,6 +1,12 @@
-## Hi there 👋
+<h1 style="text-align:center;"> Hi there 👋 , Pablo here 🙇‍♂️ </h1>
 
 ![GitHub Views](https://gitviews.com/user/tema141505.svg?style=modern-outline&label=Viewers+%F0%9F%97%A3%EF%B8%8F&label-color=dark&color=RED)
+
+### There isn't really much to say.
+#### To put it simple, I **trying** my best to develop my software skills.
+Currently (big 2026) studying 1º DAW, most likely i will upload scripts related to web development 
+
+
 <!--
 **tema141505/tema141505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
