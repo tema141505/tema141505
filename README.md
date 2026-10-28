@@ -1,12 +1,14 @@
-<h1 style="align=center;"> Hi there 👋 , Pablo here 🙇‍♂️ </h1>
+<h1 align=center> Hi there 👋 , Pablo here 🙇‍♂️ </h1>
 
-<img src="https://github.com/tema141505/tema141505/blob/main/giphy.gif">
+<p align=center>
+<img width="800" alt="9397231" src="https://github.com/user-attachments/assets/26ee0aa3-555f-4cd6-9911-f6c3ddf7a5ab" />
+</p>
 
 ![GitHub Views](https://gitviews.com/user/tema141505.svg?style=modern-outline&label=Viewers+%F0%9F%97%A3%EF%B8%8F&label-color=dark&color=RED)
 
 ### There isn't really much to say.
 #### To put it simple, I **trying** my best to develop my software skills.
-Currently (big 2026) studying 1º DAW, most likely i will upload scripts related to web development 
+Currently (big 2026) studying 1º DAW, most likely i will upload scripts related to web development. 
 
 
 <!--
