@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Hi there 👋 , Pablo here 🙇‍♂️ </h1>
+<h1 style="align=center;"> Hi there 👋 , Pablo here 🙇‍♂️ </h1>
 
 <img src="https://github.com/tema141505/tema141505/blob/main/giphy.gif">
 
